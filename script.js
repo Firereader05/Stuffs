@@ -1,5 +1,5 @@
 // Configuration for jsonbin.io
-const apiKey = '$2a$10$Uc0QY0btzASJ59ENNfoEsOFkgGVydhD5syUMRadzecBpGjC9DEQW2';  // Replace with your actual API key
+const apiKey = '$2a$10$p989XuTFXv7cXQfPvNLdae6zHym6olAVwqifpalHsR4hwbIzJHaLa';  // Replace with your actual API key
 const binId = '66c73f65e41b4d34e423bd43';  // Replace with your actual Bin ID
 const binUrl = `https://api.jsonbin.io/v3/b/${binId}/latest`;
 
